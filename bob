@@ -1,0 +1,11 @@
+Makefile
+a
+b
+d
+includes
+libft.a
+libftprintfgnl
+lol
+minishell
+objs
+src
